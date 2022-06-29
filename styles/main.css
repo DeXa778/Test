@@ -1,0 +1,20 @@
+html{
+    height: 100%;
+    margin: 0 500px 0;
+    background-color: rgb(177, 212, 245);
+}
+body{
+    height: 100%;
+    margin: 0;
+    width: 1500px;
+    background-color: rgb(55, 167, 241);
+    box-shadow:0 0 0 40px rgba(0, 117, 212, 0.4);
+    padding: 0 20px 20px 20px ;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+    text-shadow: 3px 3px 1px black;
+  }
